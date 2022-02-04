@@ -13,7 +13,7 @@ spec:
       vmClass: best-effort-medium
     nodePools:
     - name: workers-a1
-      replicas: 1
+      replicas: 2 
       storageClass: vsan-default-storage-policy
       vmClass: best-effort-medium      #storageclass for worker nodes
   settings:
