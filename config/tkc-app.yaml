@@ -14,4 +14,4 @@ spec:
   source:
     path: tkc-config
     repoURL: https://github.com/albertovmware/gitops-tkgs.git
-    targetRevision: HEAD%
+    targetRevision: HEAD
